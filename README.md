@@ -10,7 +10,7 @@
 # What gets me excited?
 
 - Connecting with customers, and learning how we can build better product together.
-- Building delightful, engaging products that our end-users love.
+- Building delightful, engaging products that our customers love.
 - Developer experience that's deeply integrated and and intuitive.
 
 # What do I value?
