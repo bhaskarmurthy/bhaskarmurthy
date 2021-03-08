@@ -2,7 +2,7 @@
 
 # What's my goal?
 
-> Build, and grow a highly effective<sup>1</sup> and impactful<sup>2</sup> product engineering organisation.
+**Build, and grow a highly effective<sup>1</sup> and impactful<sup>2</sup> product engineering organisation.**
 
 - <sup>1</sup> Effective - shipping product predictably and reliably
 - <sup>2</sup> Impactful - adds business or customer value, or solves meaningful problems
