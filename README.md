@@ -19,6 +19,9 @@
 
 **Purpose** - Goal oriented. Clear definition of done. Make effective decisions. Deep work.
 
+**Taking risks** - Outsized wins or learning comes with risks. Take risks pragmatically. Know your risk tolerance.
+
+
 # How do I think?
 
 ### Mental models
@@ -97,6 +100,26 @@ Decisions produce outcomes. Outcomes drive decisions. Identifying the factors an
 - Diminishing returns
 
 ### People Process Product
+
+#### People
+* high trust
+* high bandwidth
+* default to open
+* growth mindset
+* team player
+* competency + proficiency alignment
+
+#### Process
+* predictable
+* repeatable
+* reliable
+* low-overhead
+* open to change
+
+#### Product
+* believe in the vision
+* bought in
+* measureable
 
 Hire for values, ability and skills. Look for multipliers.
 
