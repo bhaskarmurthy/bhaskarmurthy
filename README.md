@@ -7,6 +7,12 @@
 - <sup>1</sup> Effective - shipping product predictably and reliably
 - <sup>2</sup> Impactful - adds business or customer value, or solves meaningful problems
 
+# What gets me excited?
+
+- Connecting with customers, and learning how we can build better product together.
+- Building delightful, engaging products that our end-users love.
+- Developer experience that's deeply integrated and and intuitive.
+
 # What do I value?
 
 **Trust** - Align what you say with what you do. Communicate intent. Assume positive intent. Be vulnerable. Trust by default. Trust but verify.
