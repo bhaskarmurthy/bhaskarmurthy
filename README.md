@@ -73,9 +73,9 @@ Decisions produce outcomes. Outcomes drive decisions. Identifying the factors an
 
 **High trust. High bandwidth. High velocity.** I trust by default, and believe that we have a mutually trusting relationship. We build trust by communicating our intentions and following through. Over time, our trust will grow as our communication bandwidth grows. Building trust leads to more effective and efficient outcomes.
 
-**I will hold you accountable, and I expect to be held accountable.** In my mind, accountability is a big part of trust. Let's set expectations up front, and work together to meet and exceed those expectations.
+**I will hold you accountable, and I expect to be held accountable.** Accountability is a big part of trust. Let's set expectations up front, and work together to meet and exceed those expectations.
 
-**I like to have clearly defined expected outcomes**. Sometimes that means very specific definition of done. Other times it means I'm okay with ambiguity within limits. It's okay to ask up up front what the expectations are.
+**I like to have clearly defined expected outcomes**. We can be exploring to learn. We can be building for customers. We can be building to set ourselves up for the future. Let's be specific about our intentions.
 
 **I have strong opinions. I'm open to change.** I may often have a hypothesis when making decisions. I'm open to challenging and updating my hypothesis by acquiring new information.
 
