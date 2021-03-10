@@ -11,6 +11,7 @@
 
 - Connecting with customers, and learning how we can build better product together.
 - Building delightful, engaging products that our customers love.
+- Working with energy multipliers.
 - Developer experience that's deeply integrated and and intuitive.
 
 # What do I value?
