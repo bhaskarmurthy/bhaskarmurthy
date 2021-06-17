@@ -39,6 +39,10 @@ I lean on mental models to help understand my surroundings and make decisions.
 
 I strongly believe in disciplined thinking that is clear, rational, open-minded, and informed by evidence.
 
+### Reasoning from first principles
+
+I believe that understanding systems from first principles helps shape solutions that are consistent, correct, and built for the long term.
+
 ### Thinking in bets
 
 Decisions are a bet made with an expected outcome, using the best information we have available. Outcomes should be evaluated not in hindsight, but as inputs for the next decision.
