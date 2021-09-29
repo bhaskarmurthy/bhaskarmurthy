@@ -16,9 +16,13 @@
 
 # What do I value?
 
+**Why** - Start with why. Understand context to solve the right problem. Always be curious.
+
 **Trust** - Align what you say with what you do. Communicate intent. Assume positive intent. Be vulnerable. Trust by default. Trust but verify.
 
 **Resilience** - Growth under pressure. Learn from failures. Do the right thing, even under pressure.
+
+**Feedback** - Feedback helps us grow and improve. Feedback is a gift, to be given and to receive. Be gracious in receiving feedback, and kind in giving.
 
 **Autonomy** - Make impactful decisions. Ability to unblock yourself. Be the engine of your own journey. Autonomy requires alignment. Autonomy requires accountability.
 
@@ -28,6 +32,7 @@
 
 **Taking risks** - Outsized wins or learning comes with risks. Take risks pragmatically. Know your risk tolerance.
 
+**Always be shipping** - Shipping products to customers is value, no matter how small. Consistently shipping incremental units of value trumps inconsistently shipping large units of value.
 
 # How do I think?
 
