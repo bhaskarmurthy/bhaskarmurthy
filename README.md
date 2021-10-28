@@ -2,14 +2,18 @@
 
 # What's my goal?
 
-**Build, and grow a highly effective<sup>1</sup> and impactful<sup>2</sup> product engineering organisation.**
+**Work on hard problems, with smart people.**
+**Build, and grow a highly effective<sup>2</sup> and impactful<sup>3</sup> product engineering organisation.**
 
-- <sup>1</sup> Effective - shipping product predictably and reliably
-- <sup>2</sup> Impactful - adds business or customer value, or solves meaningful problems
+- <sup>1</sup> Hard problems - Technically challenging problems that require novel/creative solutions
+- <sup>2</sup> Effective - shipping product predictably and reliably
+- <sup>3</sup> Impactful - adds business or customer value, or solves meaningful problems
 
 # What gets me excited?
 
-- Connecting with customers, and learning how we can build better product together.
+- Identifying points of leverage that lead to outsized wins
+- Diving deep on hard things
+- Connecting with customers (internal and external), and learning how we can build better product together.
 - Building delightful, engaging products that our customers love.
 - Working with energy multipliers.
 - Developer experience that's deeply integrated and and intuitive.
@@ -35,6 +39,10 @@
 **Always be shipping** - Shipping products to customers is value, no matter how small. Consistently shipping incremental units of value trumps inconsistently shipping large units of value.
 
 # How do I think?
+
+### Software is a tool of leverage
+
+Software is a tool. It's not the goal. The right application of software unlocks potential. Use software to multiply effort.
 
 ### Mental models
 
