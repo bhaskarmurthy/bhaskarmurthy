@@ -2,7 +2,7 @@
 
 # What's my goal?
 
-**Work on hard problems, with smart people.**
+**Work on hard problems<sup>1</sup>, with smart people.**
 **Build, and grow a highly effective<sup>2</sup> and impactful<sup>3</sup> product engineering organisation.**
 
 - <sup>1</sup> Hard problems - Technically challenging problems that require novel/creative solutions
